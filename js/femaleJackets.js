@@ -22,8 +22,7 @@ femalejackets.innerHTML += `<div class="jackets1">
 </div>`
 }
 }
-console.log(price);
-console.log(jacket[1].images.src);
+
 }
 
 
