@@ -6,7 +6,7 @@
 
 ![image](/images/background1.jpg)
 
-A simple overview of the use/purpose of the project.
+
 
 ## Description
 
