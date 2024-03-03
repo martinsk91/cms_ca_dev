@@ -1,6 +1,10 @@
+
+
+
+
 # Cross-course-project
 
-![image](/images/logo.png)
+![image](/images/background1.jpg)
 
 A simple overview of the use/purpose of the project.
 
